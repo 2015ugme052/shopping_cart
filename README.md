@@ -118,16 +118,3 @@ Use Postman, curl, or any HTTP client to interact with the APIs.
     "mostFrequentItem": "apple"
   }
   ```
-
-## Future Enhancements
-
-- Add database support for persistent storage of users and cart data.
-- Implement role-based access control (e.g., admin vs. user).
-- Add unit tests for APIs and core logic.
-- Improve error handling and logging.
-
----
-
-## License
-
-This project is licensed under the MIT License.
